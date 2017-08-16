@@ -1,4 +1,4 @@
 # testrepo
 test
 
-This is my branch1 branch!
+This is my branch2 branch!
